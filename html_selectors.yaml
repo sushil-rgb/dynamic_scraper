@@ -1,0 +1,4 @@
+login_button: div[class="nav-link primary__link link-withoutdecoration"]
+username_placeholder: input#floatingInput
+password_placeholder: input#floatingPassword
+submit_button: div.sign-modal__btn button[type="submit"]
